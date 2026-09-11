@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NIFTY",
+    "exch_seg": "NFO"
+  },
+  {
+    "name": "BANKNIFTY",
+    "exch_seg": "NFO"
+  },
+  {
+    "name": "FINNIFTY",
+    "exch_seg": "NFO"
+  },
+  {
+    "name": "MIDCPNIFTY",
+    "exch_seg": "NFO"
+  },
+  {
+    "name": "SENSEX",
+    "exch_seg": "BFO"
+  },
+  {
+    "name": "BANKEX",
+    "exch_seg": "BFO"
+  }
+]
